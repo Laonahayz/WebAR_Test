@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="MeasureCylinder" size="300.000000 300.000000" />
+    <ImageTarget name="EvaporatingDishes" size="300.000000 300.000000" />
+    <ImageTarget name="StirringRod" size="300.000000 300.000000" />
+    <ImageTarget name="Beaker" size="300.000000 300.000000" />
+    <ImageTarget name="Testtube" size="300.000000 300.000000" />
+  </Tracking>
+</QCARConfig>
